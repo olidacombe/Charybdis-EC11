@@ -652,9 +652,15 @@
     (uuid faf3410d-827d-4c2e-8b64-968ed11d6729)
   )
 
+  (no_connect (at 34.544 41.91) (uuid 34d5180a-ea3f-40b8-89f8-44653054af09))
+
   (wire (pts (xy 162.56 95.25) (xy 165.1 95.25))
     (stroke (width 0) (type default))
     (uuid 0086ff9a-4369-44c7-b877-26a7c9394b1d)
+  )
+  (wire (pts (xy 34.544 41.91) (xy 35.56 41.91))
+    (stroke (width 0) (type default))
+    (uuid 015f842a-5ee4-4d8c-bf00-5ce0b4545026)
   )
   (wire (pts (xy 74.93 87.63) (xy 86.36 87.63))
     (stroke (width 0) (type default))
