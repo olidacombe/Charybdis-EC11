@@ -82,7 +82,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "../../Charybdis-EC11-rev1-2_gerbers/")
+      (outputdirectory "gerber")
     )
   )
 
